@@ -1,0 +1,22 @@
+{
+  "name": "bugfree-batman",
+  "version": "0.0.0",
+  "description": "Cool stuff",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rawpower/bugfree-batman.git"
+  },
+  "author": "Johan Sverredal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawpower/bugfree-batman/issues"
+  },
+  "homepage": "https://github.com/rawpower/bugfree-batman",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
